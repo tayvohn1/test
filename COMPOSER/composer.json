@@ -1,0 +1,15 @@
+{
+    "name": "admin/composer",
+    "authors": [
+        {
+            "name": "adem",
+            "email": "adem@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+    	"psr-4":{
+    		"\\CALCULATOR\\":"./CALCULATOR"
+    	}
+    }
+}
